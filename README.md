@@ -6,4 +6,4 @@
  # step 3
  3.conda activate mchatbot
  # step 4
-  download datset
+  Download Model  by using Instruction.txt file for  llama-2-7b-chat.ggmlv3.q4_0 model from hugging face link
